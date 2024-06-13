@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\\DankiCodeCursoC#\\ProjetosDC\\DCAula01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{638DDDF0-7C00-40C9-9016-6C9756BCEF89}|DCAula01\\DCAula01.csproj|f:\\cursos de desenvolvimento de software\\dankicodecursoc#\\projetosdc\\dcaula01\\dcaula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638DDDF0-7C00-40C9-9016-6C9756BCEF89}|DCAula01\\DCAula01.csproj|solutionrelative:dcaula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\\DankiCodeCursoC#\\ProjetosDC\\DCAula01\\DCAula01\\Program.cs",
+              "RelativeDocumentMoniker": "DCAula01\\Program.cs",
+              "ToolTip": "F:\\CURSOS DE DESENVOLVIMENTO DE SOFTWARE\\DankiCodeCursoC#\\ProjetosDC\\DCAula01\\DCAula01\\Program.cs",
+              "RelativeToolTip": "DCAula01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:28:01.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
